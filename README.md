@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Linley Spangler, linleys39
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Sidney Frederick's, sidneyf25
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** Good determination and problem solving, should probably review/refresh myself on basics to not make simple mistakes, read directions more clearly
